@@ -115,7 +115,7 @@ sell-phone-accessories-net/
 | `DAL` | `DAL.dll` | DTO |
 | `DTO` | `DTO.dll` | — |
 
----
+--------
 
 ## Prerequisites
 
